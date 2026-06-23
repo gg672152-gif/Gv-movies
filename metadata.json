@@ -1,0 +1,6 @@
+{
+  "name": "GVMovies",
+  "description": "A premium movie and TV show browsing app with a sleek dark theme and personalized AI recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
